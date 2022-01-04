@@ -11,4 +11,4 @@ grid = [
 
   ["0","0","0","1","1"]]
 
-BfS and DFS algorithms have been employed to solve this problem in two different approaches.
+BFS and DFS algorithms have been employed to solve this problem with two different approaches.
